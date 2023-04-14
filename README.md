@@ -6,7 +6,7 @@
 
 ## Opis zadatka
 
-Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice na desktop rezoluciji. Potrebno je izrezati navedeni dizajn u HTML-u i CSS-u. Dizajn se nalazi na sljedećoj poveznici: [Link](https://www.figma.com/file/eAv1yU9fOTmlzZgpa3PKLv/Personal-portfolio-website-(Community)?node-id=0%3A1&t=ctrhGeQpF9UzoE0l-1)
+Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice na desktop rezoluciji. Potrebno je izrezati navedeni dizajn u HTML-u i CSS-u. Dizajn se nalazi na sljedećoj poveznici: [Link](https://webprogramiranjelv1mariopanduric.onrender.com/)
 
 #### Potrebno je:
 
