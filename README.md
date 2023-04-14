@@ -1,7 +1,7 @@
 # LV 1 zadatak - Osobna stranica
 
 ### LINK: 
-
+https://lv1webprogpanduric.onrender.com/
 <hr />
 
 ## Opis zadatka
@@ -47,5 +47,5 @@ https://github.com/anandrmedia/heroku-free-alternatives
 - https://www.youtube.com/watch?v=JJSoEo8JSnc
 - Kako kreirati svoj grid sistem - https://zellwk.com/blog/responsive-grid-system/
 
-####
-Link: https://lv1webprogpanduric.onrender.com/
+
+ 
