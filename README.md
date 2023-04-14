@@ -6,7 +6,7 @@
 
 ## Opis zadatka
 
-Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice na desktop rezoluciji. Potrebno je izrezati navedeni dizajn u HTML-u i CSS-u. Dizajn se nalazi na sljedećoj poveznici: [Link](https://webprogramiranjelv1mariopanduric.onrender.com/)
+Izradite vlastitu osobnu web stranicu prema primjeru dizajna početne stranice na desktop rezoluciji. Potrebno je izrezati navedeni dizajn u HTML-u i CSS-u. Dizajn se nalazi na sljedećoj poveznici: [Link]https://lv1webprogpanduric.onrender.com/)
 
 #### Potrebno je:
 
